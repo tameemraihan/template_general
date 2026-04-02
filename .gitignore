@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# C++
+*.o
+*.exe
+*.out
+*.obj
+
+# C#
+*.exe
+*.dll
+*.pdb
+*.mdb
+# Visual Studio
+tmp/
+bin/
+obj/
+.vscode/
+
+# Go
+*.out
+
+# Rust
+target/
+**/*.rs.bk
+
+# General IDE/OS Files
+.DS_Store
+*.swp
+*~
+Thumbs.db
