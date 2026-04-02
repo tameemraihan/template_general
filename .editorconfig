@@ -1,0 +1,21 @@
+# EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
+
+# Top-most EditorConfig file
+root = true
+
+# Unix and Windows line endings
+[*]
+end_of_line =lf
+
+# Indentation settings
+indent_style = space
+indent_size = 4
+
+# Character encoding
+charset = utf-8
+
+# Trim trailing whitespace
+trim_trailing_whitespace = true
+
+# Insert final new line
+insert_final_newline = true
